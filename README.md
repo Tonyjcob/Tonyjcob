@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Antonio 👋
 
-<!--
-**Tonyjcob/Tonyjcob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Junior en Madrid, cursando 2º de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Vengo del marketing digital, así que me interesa tanto cómo funciona un producto por dentro como cómo lo vive el usuario.
 
-Here are some ideas to get you started:
+- 🔍 Buscando **prácticas de DAM**
+- 🎓 Superé la Piscina de 42 Madrid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tecnologías](https://skillicons.dev/icons?i=java,c,py,mysql,docker,html,css,supabase,git&perline=5)
+
+## Proyectos destacados
+- **[HaulLit](https://github.com/TU-USUARIO/haullit)**: e-commerce para una marca de streetwear (frontend + backend en Supabase).
+
+
+## Contacto
+[LinkedIn](https://linkedin.com/in/TU-PERFIL) · tuemail@ejemplo.com

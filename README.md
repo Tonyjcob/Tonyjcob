@@ -6,7 +6,7 @@ Vengo del marketing digital, así que me interesa tanto cómo funciona un produc
 - 🔍 Buscando **prácticas de DAM**
 - 🎓 Superé la Piscina de 42 Madrid
 
-![Tecnologías](https://skillicons.dev/icons?i=java,c,py,mysql,docker,html,css,supabase,git&perline=5)
+![Tecnologías](https://skillicons.dev/icons?i=java,c,py,mysql,docker,html,css,supabase,git)
 
 ## Proyectos destacados
 - **[HaulLit](https://github.com/TU-USUARIO/haullit)**: e-commerce para una marca de streetwear (frontend + backend en Supabase).

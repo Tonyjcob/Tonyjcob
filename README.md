@@ -13,4 +13,4 @@ Vengo del marketing digital, así que me interesa tanto cómo funciona un produc
 
 
 ## Contacto
-[LinkedIn](https://linkedin.com/in/TU-PERFIL) · tuemail@ejemplo.com
+[LinkedIn](https://www.linkedin.com/in/antonio-jacob/) · tonyjcob@protonmail.com
